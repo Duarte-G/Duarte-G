@@ -1,6 +1,6 @@
 ### Hi! I am Gabriel Duarte, Computer Engineering Student 🕹️
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-duarte-b326aa199/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-duarte-santos-b326aa199/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielduartera07@gmail.com)
 
 ![Duarte GitHub stats](https://github-readme-stats.vercel.app/api?username=Duarte-G&show_icons=true&theme=tokyonight)
